@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
-    "global"
+    "reference-tokens",
+    "alias-tokens",
+    "component-tokens"
   ]
 }
