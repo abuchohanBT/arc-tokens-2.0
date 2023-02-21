@@ -1,64 +1,22 @@
 {
   "body": {
-    "xs": {
-      "regular": {
-        "value": {
-          "fontFamily": "{font-family.bt-curve}",
-          "lineHeight": "{line-height.16}",
-          "fontSize": "{font-size.12}",
-          "fontWeight": "{font-weight.regular}"
-        },
-        "type": "typography"
+    "xs-regular": {
+      "value": {
+        "fontFamily": "{font-family.bt-curve}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{line-height.16}",
+        "fontSize": "{font-size.12}"
       },
-      "bold": {
-        "value": {
-          "fontFamily": "{font-family.bt-curve}",
-          "fontWeight": "{font-weight.bold}",
-          "lineHeight": "{line-height.16}",
-          "fontSize": "{font-size.12}"
-        },
-        "type": "typography"
-      }
+      "type": "typography"
     },
-    "s": {
-      "regular": {
-        "value": {
-          "fontFamily": "{font-family.bt-curve}",
-          "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.20}",
-          "fontSize": "{font-size.14}"
-        },
-        "type": "typography"
+    "xs-bold": {
+      "value": {
+        "fontFamily": "{font-family.bt-curve}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{line-height.16}",
+        "fontSize": "{font-size.12}"
       },
-      "bold": {
-        "value": {
-          "fontFamily": "{font-family.bt-curve}",
-          "fontWeight": "{font-weight.bold}",
-          "lineHeight": "{line-height.20}",
-          "fontSize": "{font-size.14}"
-        },
-        "type": "typography"
-      }
-    },
-    "m": {
-      "regular": {
-        "value": {
-          "fontFamily": "{font-family.bt-curve}",
-          "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.24}",
-          "fontSize": "{font-size.16}"
-        },
-        "type": "typography"
-      },
-      "bold": {
-        "value": {
-          "fontFamily": "{font-family.bt-curve}",
-          "fontWeight": "{font-weight.bold}",
-          "lineHeight": "{line-height.24}",
-          "fontSize": "{font-size.16}"
-        },
-        "type": "typography"
-      }
+      "type": "typography"
     }
   }
 }
