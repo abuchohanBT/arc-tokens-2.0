@@ -2,9 +2,6 @@
   "tokenSetOrder": [
     "reference-tokens",
     "alias-tokens",
-    "component-tokens",
-    "code-reference",
-    "figma-reference",
-    "global"
+    "component-tokens"
   ]
 }
