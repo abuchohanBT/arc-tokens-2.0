@@ -344,5 +344,15 @@
         "type": "typography"
       }
     }
+  },
+  "Brand": {
+    "indigo": {
+      "value": "{indigo.800}",
+      "type": "color"
+    },
+    "Pink": {
+      "value": "{pink.300}",
+      "type": "color"
+    }
   }
 }
