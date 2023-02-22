@@ -36,7 +36,7 @@
       },
       "type": "typography"
     },
-    "M Regular": {
+    "M Regular (preferred)": {
       "value": {
         "fontFamily": "{font-family.bt-curve}",
         "fontWeight": "{font-weight.regular}",
@@ -92,7 +92,7 @@
       },
       "type": "typography"
     },
-    "S Headline": {
+    "S Headline (preferred)": {
       "value": {
         "fontFamily": "{font-family.bt-curve}",
         "fontWeight": "{font-weight.headline}",
@@ -228,7 +228,7 @@
         "type": "typography"
       }
     },
-    "XL Headline": {
+    "XL Headline (preferred)": {
       "Mobile": {
         "value": {
           "fontFamily": "{font-family.bt-curve}",
