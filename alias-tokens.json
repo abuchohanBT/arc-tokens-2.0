@@ -353,6 +353,86 @@
     "Pink": {
       "value": "{pink.300}",
       "type": "color"
+    },
+    "Indigo Gradient": {
+      "value": "linear-gradient(90deg, $indigo.800 50%, #7e2ec6 100%)",
+      "type": "color"
+    },
+    "Pink Gradient": {
+      "value": "linear-gradient(90deg, $pink.300 50%, #d666ed 100%)",
+      "type": "color"
+    },
+    "Extended": {
+      "Coral": {
+        "value": "{coral.300}",
+        "type": "color"
+      },
+      "Turquoise": {
+        "value": "{turquoise.400}",
+        "type": "color"
+      }
+    }
+  },
+  "Light Pathway": {
+    "Background White": {
+      "value": "{white.100}",
+      "type": "color"
+    },
+    "Background Light": {
+      "value": "{grey.200}",
+      "type": "color"
+    },
+    "Background Lighter": {
+      "value": "{grey.100}",
+      "type": "color"
+    },
+    "Coral": {
+      "value": "linear-gradient(90deg, #FFF2F0 0%, #F5EEFA 100%)",
+      "type": "color"
+    },
+    "Turquoise": {
+      "value": "linear-gradient(90deg, #F5EEFA 0%, #EAFCFF 100%)",
+      "type": "color"
+    },
+    "Body Text": {
+      "value": "{grey.1000}",
+      "type": "color"
+    },
+    "Supporting Text": {
+      "value": "{grey.900}",
+      "type": "color"
+    },
+    "Muted Text": {
+      "value": "{grey.800}",
+      "type": "color"
+    },
+    "Heading Brand": {
+      "value": "{indigo.800}",
+      "type": "color"
+    },
+    "Proposition": {
+      "value": "{pink.500}",
+      "type": "color"
+    },
+    "Interactive": {
+      "value": "linear-gradient(90deg, $indigo.800 50%, #7e2ec6 100%)",
+      "type": "color"
+    },
+    "Interactive (flat)": {
+      "value": "{indigo.800}",
+      "type": "color"
+    },
+    "Indigo Hover": {
+      "value": "{indigo.900}",
+      "type": "color"
+    },
+    "Interactive Active": {
+      "value": "{indigo.1000}",
+      "type": "color"
+    },
+    "Button Foreground": {
+      "value": "{white.100}",
+      "type": "color"
     }
   }
 }
