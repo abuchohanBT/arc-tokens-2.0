@@ -4,6 +4,7 @@
     "alias-tokens",
     "component-tokens",
     "code-reference",
-    "figma-reference"
+    "figma-reference",
+    "global"
   ]
 }
