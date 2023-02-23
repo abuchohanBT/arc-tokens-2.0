@@ -488,7 +488,7 @@
       "value": "{grey.900}",
       "type": "color"
     },
-    "Darker": {
+    "Background Darker": {
       "value": "{grey.1000}",
       "type": "color"
     },
