@@ -422,7 +422,7 @@
       "value": "{indigo.800}",
       "type": "color"
     },
-    "Indigo Hover": {
+    "Interactive Hover": {
       "value": "{indigo.900}",
       "type": "color"
     },
@@ -508,7 +508,7 @@
       "value": "{white.100}",
       "type": "color"
     },
-    "Proposition": {
+    "Heading Proposition": {
       "value": "{pink.300}",
       "type": "color"
     },
@@ -520,7 +520,7 @@
       "value": "{pink.300}",
       "type": "color"
     },
-    "Indigo Hover": {
+    "Interactive Hover": {
       "value": "{pink.200}",
       "type": "color"
     },
