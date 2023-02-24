@@ -476,12 +476,8 @@
     }
   },
   "Dark Pathway": {
-    "Background Brand": {
-      "value": "linear-gradient(90deg, $indigo.800 50%, #7e2ec6 100%)",
-      "type": "color"
-    },
-    "Background Brand (flat)": {
-      "value": "{indigo.800}",
+    "Background Black": {
+      "value": "{black.100}",
       "type": "color"
     },
     "Background Dark": {
@@ -490,6 +486,14 @@
     },
     "Background Darker": {
       "value": "{grey.1000}",
+      "type": "color"
+    },
+    "Background Brand": {
+      "value": "linear-gradient(90deg, $indigo.800 50%, #7e2ec6 100%)",
+      "type": "color"
+    },
+    "Background Brand (flat)": {
+      "value": "{indigo.800}",
       "type": "color"
     },
     "Body Text": {
